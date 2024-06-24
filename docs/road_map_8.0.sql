@@ -24,7 +24,7 @@ SET NAMES utf8mb4;
 # ------------------------------------------------------------
 
 CREATE database if NOT EXISTS `road_map` default character set utf8mb4 collate utf8mb4_0900_ai_ci;
-use `x_api`;
+use `road_map`;
 
 DROP TABLE IF EXISTS `user_order`;
 
